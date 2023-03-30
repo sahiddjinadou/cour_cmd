@@ -1,0 +1,6 @@
+CommandeA | CommandeB   : évalue la sortie de la première commande comme une entrée pour la suivante 
+CommandeA & CommandeB  : (La deuxième commande est exécutée immédiatement après la première.)
+CommandeA || CommandeB  :(La deuxième commande n’est exécutée que si la première commande a échoué.)
+CommandeA && CommandeB || CommandeC (La deuxième commande n’est exécutée que si la première commande a réussi, sinon la troisième est exécutée.)
+
+## les commandes de base,
